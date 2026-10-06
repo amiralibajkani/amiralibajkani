@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Amir Ali👋</h1>
 
 <p align="center">
-  <b>First-Year Software Engineering Student • Beginner Web Developer</b>
+  <b>Software Engineering Student • Beginner Web Developer</b>
 </p>
 
 <p align="center">
